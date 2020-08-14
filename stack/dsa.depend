@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1597084096 source:c:\users\tamji\onedrive\desktop\c_prob\dsa\main.c
+	<stdio.h>
+
+1597059032 source:c:\users\tamji\onedrive\desktop\c_prob\st.c
+	<stdio.h>
+
+1597060384 source:c:\users\tamji\onedrive\desktop\c_prob\dsa\st.c
+	"dsa.h"
+	<stdio.h>
+
+1597060567 c:\users\tamji\onedrive\desktop\c_prob\dsa\dsa.h
+
