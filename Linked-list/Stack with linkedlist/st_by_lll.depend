@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1598197497 source:c:\users\tamji\onedrive\desktop\c_prob\st_by_lll\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1598012870 c:\users\tamji\onedrive\desktop\c_prob\st_by_lll\func.h
+	<stdio.h>
+	<stdlib.h>
+
+1598183043 source:c:\users\tamji\onedrive\desktop\c_prob\st_by_lll\func.c
+
