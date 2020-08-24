@@ -1,0 +1,19 @@
+This Folder Contains Implementation of Tower of Hanoi.
+    In this problem there are three sticks.
+    1. Primary Stick.
+    2. Temporary Stick.
+    3. Destination Stick.
+    Where N number of disks are stored in primary stick and they are stored in such a way
+    that Largest disk resides at the very bottom. 
+    One condition For that particular problem is that larger disks can not reside under smaller 
+    disk.
+    our goal is to send those n disks from primary to destination stick with the help of temporary 
+    stick.
+    
+    SOLUTION: This is a recursive problem.
+              At first we need to determine the base case.
+                  In this case if the number of disk is one then it will directly go from primary to
+                  destination.
+                  but if it is not the case,
+                    then at first we need to make n-1 disks shift to temporary.
+                    after that the last disk should move to primary to destination.
