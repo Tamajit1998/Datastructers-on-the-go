@@ -1,0 +1,6 @@
+Selection Sort is a Sorting technique of array which follows the Algoithmic Approach by Substract and conquer.
+--It is an Internal Sorting Technique as it doesnot require extra Space.
+--It is Unstable In nature beacuse the relative position changes during sorting.
+--Worst Case Time Complexicity: O(n2)
+   --Due to that it is not that much efficient.
+   
