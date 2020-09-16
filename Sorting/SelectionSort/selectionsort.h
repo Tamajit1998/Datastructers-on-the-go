@@ -1,5 +1,5 @@
 //
-// Created by tamji on 9/15/2020.
+// Created by tamajit on 9/15/2020.
 //
 
 #ifndef SELECTIONSORT_SELECTIONSORT_H
